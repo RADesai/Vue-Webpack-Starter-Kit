@@ -1,9 +1,14 @@
 module.exports = {
   entry: './src/main.js',
   output: {
-    path: './dist',
-    publicPath: 'dist/',
+    path: __dirname,
+    publicPath: '/',
     filename: 'build.js'
+  },
+  resolve: {
+    alias: {
+      vue: 'vue/dist/vue.js'
+    }
   },
   module: {
     loaders: [
