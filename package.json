@@ -1,0 +1,19 @@
+{
+  "name": "vue-webpack-starter-kit",
+  "version": "1.0.0",
+  "description": "Minimal Vue JS starter kit bundled using Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RADesai/Vue-Webpack-Starter-Kit.git"
+  },
+  "author": "Raj Ashish Desai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RADesai/Vue-Webpack-Starter-Kit/issues"
+  },
+  "homepage": "https://github.com/RADesai/Vue-Webpack-Starter-Kit#readme"
+}
